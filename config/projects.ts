@@ -35,17 +35,17 @@ export const Projects: ProjectInterface[] = [
     category: ["Full Stack", "Web Dev", "UI/UX"],
     shortDescription:
       "A responsive developer portfolio for showcasing projects, experience, skills, and contact information with a modern Next.js experience.",
-    websiteLink: "https://esuyawkal.xyz.vercel.app",
+    websiteLink: "https://esuyawkal.vercel.app",
     techStack: ["Next.js", "React", "Typescript", "Tailwind CSS", "Framer Motion", "Vercel", "Git"],
     startDate: new Date("2025-08-01"),
     endDate: new Date("2026-08-31"),
-    companyLogoImg: "/logo.png",
+    companyLogoImg: "/projects/portfolio/home.png",
     pagesInfoArr: [
       {
         title: "Portfolio Experience",
         description:
           "A polished personal brand site built to present projects, background, and technical work in a clean, responsive layout.",
-        imgArr: ["/logo.png"],
+        imgArr: ["/projects/portfolio/home.png"],
       },
     ],
     descriptionDetails: {
